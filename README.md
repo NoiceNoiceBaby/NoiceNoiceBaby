@@ -4,8 +4,8 @@
 ## about me 
 * 💻 i am a computer science student 
 * ✏️ my current IDE of choice is Visual Studio Code
-* 🐍 im currently learning python
-* 🚀 in the future i want to learn languages such as C# and javascript
+* 🐍 im currently learning python and C 
+* 🚀 in the future i want to become a software engineer
 
 ---
 ## github stats
