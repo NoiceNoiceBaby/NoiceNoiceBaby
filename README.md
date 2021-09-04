@@ -2,7 +2,7 @@
 
 ---
 ## about me 
-* 💻 i am a computer science student 
+* 💻 i am a GCSE computer science student 
 * ✏️ my current IDE of choice is Visual Studio Code
 * 🐍 im currently learning python and C 
 * 🚀 in the future i want to become a software engineer
