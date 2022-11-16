@@ -4,7 +4,7 @@
 ## about me 
 * 💻 i am an AS computer science student 
 * ✏️ my current IDE of choice is Visual Studio Code & Visual Studio
-* 🐍 im currently learning C#
+* 🎵 im currently learning C#
 
 ---
 ## github stats
