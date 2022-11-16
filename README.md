@@ -2,10 +2,9 @@
 
 ---
 ## about me 
-* 💻 i am a GCSE computer science student 
-* ✏️ my current IDE of choice is Visual Studio Code
-* 🐍 im currently learning python and C 
-* 🚀 in the future i want to become a software engineer
+* 💻 i am an AS computer science student 
+* ✏️ my current IDE of choice is Visual Studio Code & Visual Studio
+* 🐍 im currently learning C#
 
 ---
 ## github stats
